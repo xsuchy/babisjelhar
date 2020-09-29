@@ -1,38 +1,17 @@
 ---
 layout: page
-title: Privacy Policy
+title: Licence
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Právní nutnostnit</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+Fotografie Andreje: David Sedlecký, CC BY-SA 4.0 a Facebookový profil Andreje Babiše (asi Mára)
 
-**PERSONAL INFORMATION WE COLLECT**
+Šablona: [Agency](https://github.com/raviriley/agency-jekyll-theme), MIT
 
-{% if site.analytics.google %}
+Engine: [Jekyll](https://jekyllrb.com/), MIT
 
-Automatically Collected (Google Analytics):
+Lži: Andrej Babiš
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
-
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
-
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
-
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
-
-{% else %}
-
-We do not collect any data about you or use any cookies.
-
-{% endif %}
-
-**CHANGES**
-
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
-
-**CONTACT US**
-
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
