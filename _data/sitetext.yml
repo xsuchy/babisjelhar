@@ -44,22 +44,22 @@ timeline:
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Vláda pomohla k zastavení 200 tisíc exekucí"
+        year: "31. března 2019"
+        desc: "Vláda prokazatelně neudělala nic. <br>[Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-zastaveni-exekuci/)"
+        image: assets/img/timeline/1.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Děláme analýzu k neziskovkám"
+        year: "léto 2018"
+        desc: "„Děláme analýzu. Poprvé v historii této země se tím premiér zabývá. Když jsem byl ministrem financí a žádal jsem o to (premiéra Bohuslava) Sobotku, tak ho to nezajímalo,” řekl v létě 2018. <br>Ve skutečnosti nikdo takovou analýzu dosud ani nezačal zpracovávat. <br>[Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-s-analyzou-k-neziskovam/)"
+        image: assets/img/timeline/1.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Vyhrál jsem soud o StB"
+        year: "únor 2018"
+        desc: "„Já jsem to vyhrál, ten soud. A znovu to vyhraju. Protože jsem nikdy nespolupracoval, nic jsem nepodepsal, žádný důkaz neexistuje,“ prohlásil v únoru 2018.<br>Realita? Po několika prohraných soudech Babiš své žaloby stáhl. <br> [Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-jeho-vyhra-soudu-o-stb/)"
+        image: assets/img/timeline/1.jpg
         alt: 
         align: right
     end: "Něco chybí? Napište mi!"
