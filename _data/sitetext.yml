@@ -32,9 +32,15 @@ timeline:
     text: "Doložené lži"
     section: timeline
     events:
+      - title: "Tolik, co my testujeme, nikdo netestuje"
+        year: "15. září 2020"
+        desc: "„Chtěl bych poprosit všechny, abychom se už konečně přestali strašit,“ řekl během setkání premiér Babiš. Jeho slova přicházejí v době kdy se nácházíme na 21. místě v EU. <br>[Zdroj](https://www.forum24.cz/nikdo-netestuje-tolik-co-my-lhal-babis-realita-je-pritom-uplne-jina-a-mnohem-horsi/)"
+        image: assets/img/timeline/1.jpg
+        alt: 
+        align: right
       - title: "Není pravda, že by naši zdravotníci neměli respirátory."
         year: "14. března 2020"
-        desc: "„Není pravda, že by naši zdravotníci neměli respirátory. Tak mi řekněte kde a já jim to dnes osobně rozvezu,“ prohlásil 14. března ráno. Už o pár hodin později, kdy se zvedla vlna odporu z nemocnic, byl nucen vystoupit ministr zdravotnictví Adam Vojtěch a přiznat, že roušky a respirátory zkrátka nejsou. <br>“Bezesporu se bavíme o stovkách tisíc respirátorů, které potřebujeme sehnat, možná až kolem milionu respirátorů, které bychom potřebovali skutečně získat,” řekl Vojtěch v Českém rozhlase. <br> Sám Babiš se později za nedostatek roušek omluvil, vinu ale nikdy nepřipustil. “Všem se omlouváme, myslím si, že jsme udělali maximum,” prohlásil 17. března."
+        desc: "„Není pravda, že by naši zdravotníci neměli respirátory. Tak mi řekněte kde a já jim to dnes osobně rozvezu,“ prohlásil 14. března ráno. Už o pár hodin později, kdy se zvedla vlna odporu z nemocnic, byl nucen vystoupit ministr zdravotnictví Adam Vojtěch a přiznat, že roušky a respirátory zkrátka nejsou. <br>“Bezesporu se bavíme o stovkách tisíc respirátorů, které potřebujeme sehnat, možná až kolem milionu respirátorů, které bychom potřebovali skutečně získat,” řekl Vojtěch v Českém rozhlase. <br> Sám Babiš se později za nedostatek roušek omluvil, vinu ale nikdy nepřipustil. “Všem se omlouváme, myslím si, že jsme udělali maximum,” prohlásil 17. března. <br>[Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-premianti-v-testovani/)"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
