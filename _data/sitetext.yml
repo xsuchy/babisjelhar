@@ -4,7 +4,7 @@ header:
     button: Chci vědět víc
     buttonlink: "#about"
 
-#services:
+services:
 #    title: "Services"
 #    text: "Lorem ipsum"
 #    section: services
@@ -19,7 +19,7 @@ header:
 #        desc: "Your description here, full **Markdown** support"
 #        icon: fab fa-markdown
 
-#portfolio:
+portfolio:
 #    title: "Portfolio"
 #    text: "Lorem ipsum dolor sit amet consectetur."
 #    section: portfolio
