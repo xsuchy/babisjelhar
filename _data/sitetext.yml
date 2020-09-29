@@ -33,7 +33,7 @@ timeline:
     events:
       - title: "Není pravda, že by naši zdravotníci neměli respirátory."
         year: "14. března 2020"
-        desc: "„Není pravda, že by naši zdravotníci neměli respirátory. Tak mi řekněte kde a já jim to dnes osobně rozvezu,“ prohlásil 14. března ráno. Už o pár hodin později, kdy se zvedla vlna odporu z nemocnic, byl nucen vystoupit ministr zdravotnictví Adam Vojtěch a přiznat, že roušky a respirátory zkrátka nejsou. “Bezesporu se bavíme o stovkách tisíc respirátorů, které potřebujeme sehnat, možná až kolem milionu respirátorů, které bychom potřebovali skutečně získat,” řekl Vojtěch v Českém rozhlase. <br> Sám Babiš se později za nedostatek roušek omluvil, vinu ale nikdy nepřipustil. “Všem se omlouváme, myslím si, že jsme udělali maximum,” prohlásil 17. března."
+        desc: "„Není pravda, že by naši zdravotníci neměli respirátory. Tak mi řekněte kde a já jim to dnes osobně rozvezu,“ prohlásil 14. března ráno. Už o pár hodin později, kdy se zvedla vlna odporu z nemocnic, byl nucen vystoupit ministr zdravotnictví Adam Vojtěch a přiznat, že roušky a respirátory zkrátka nejsou. <br>“Bezesporu se bavíme o stovkách tisíc respirátorů, které potřebujeme sehnat, možná až kolem milionu respirátorů, které bychom potřebovali skutečně získat,” řekl Vojtěch v Českém rozhlase. <br> Sám Babiš se později za nedostatek roušek omluvil, vinu ale nikdy nepřipustil. “Všem se omlouváme, myslím si, že jsme udělali maximum,” prohlásil 17. března."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
@@ -55,7 +55,7 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Něco chybí? Napište mi!"
 
 about:
     title: "About Us"
