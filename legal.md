@@ -4,7 +4,7 @@ title: Licence
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Právní nutnostnit</h2>
+	<h2 class="section-heading text-uppercase">Právní nutnostni</h2>
 </div>
 
 Fotografie Andreje: David Sedlecký, CC BY-SA 4.0 a Facebookový profil Andreje Babiše (asi Mára)
