@@ -80,6 +80,12 @@ timeline:
         image: assets/img/timeline/1.jpg
         alt: 
         #align: #default is left
+      - title: "Prohlašuji na zdraví mých dětí, že nikdy nezasáhnu do práce Mafry"
+        year: "27. června 2013"
+        desc: "Přitom jenom o pár dní později unikly nahrávky rozhovoru Babiše s redaktory, kde zasahuje do chodu redakce. <br> [Zdroj](https://echo24.cz/a/i4HhS/babis-prohlasuji-na-zdravi-mych-deti-ze-nikdy-nezasahnu-do-prace-mafry)"
+        image: assets/img/timeline/1.jpg
+        alt:
+        align: right
 
     end: "Něco chybí? Napište mi!"
 
