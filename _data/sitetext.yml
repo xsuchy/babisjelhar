@@ -62,6 +62,25 @@ timeline:
         image: assets/img/timeline/1.jpg
         alt: 
         align: right
+      - title: "V roce 2019 jsme přesunuli hromadnou přepravu osob z 15 do 10 procent."
+        year: "únor 2020"
+        desc: "„Ve skutečnosti to bylo tak, že snížení DPH u jízdenek schválilo 94 opozičních poslanců navzdory vládě. Sám Babiš hlasoval proti.<br>  [Zdroj](https://www.seznamzpravy.cz/clanek/babis-se-chlubi-ze-prosadil-nizsi-dane-na-jizdenky-pritom-hlasoval-proti-89297)"
+        image: assets/img/timeline/1.jpg
+        alt: 
+        #align: #default is left
+      - title: "Neomezená data jsou práce mého týmu"
+        year: "léto 2019"
+        desc: "@TMobile_CZE: Dobrý den, můžu vám potvrdit, že s představiteli státu, kteří mají na starosti telekomunikační trh, vedeme průběžný dialog a jednání, ale přímo na tvorbě konkrétních nabídek, s nimi nespolupracujeme. <br> [Zdroj](https://zpravy.aktualne.cz/ekonomika/data-babis/r~77a4d410910011e9b6a9ac1f6b220ee8/)"
+        image: assets/img/timeline/1.jpg
+        alt:
+        align: right
+      - title: "Opozice blokuje přijetí novely o drahách"
+        year: "jaro 2020"
+        desc: "„Po sérii neštěstí na železnici zaútočil na opozici, že blokuje novelu. Vláda přitom novelu předložilo až mnohem později. Takže opozice ani neměla co blokovat.<br> [Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-zakon-o-drahach/)"
+        image: assets/img/timeline/1.jpg
+        alt: 
+        #align: #default is left
+
     end: "Něco chybí? Napište mi!"
 
 about:
