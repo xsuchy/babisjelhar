@@ -41,6 +41,10 @@ timeline:
         year: "2. září 2020"
         desc: "Po kontaktu s infikovanou hygieničkou splňoval všechna kritéria pro nařízení karantény. A mimo kamery si respirátor sundává.<br>[Zdroj](https://twitter.com/PavelHertl/status/1301200378994851841) a [Zdroj](https://www.facebook.com/vlastimil.strachovsky.3/posts/10220666180776817)"
         image: assets/img/timeline/1.jpg
+      - title: "Ovšem od prvních okamžiků, kdy se v naší zemi objevily symptomy krize s koronavirem, postrádám pomoc z neziskového sektoru."
+        year: "3. dubna 2020"
+        desc: "Neziskové a další organizace, například Armáda spásy, ADRA, Charita ČR, Život 90, Člověk v tísni a mnoho dalších na epidemii COVID-19 zareagovaly již v době zavedení prvních opatření vlády. Poskytují pomoc v sociální oblasti, zdravotnictví, vzdělávání i kultuře.<br>[Zdroj](https://demagog.cz/vyrok/19188)"
+        image: assets/img/timeline/1.jpg
       - title: "Opozice blokuje přijetí novely o drahách"
         year: "jaro 2020"
         desc: "„Po sérii neštěstí na železnici zaútočil na opozici, že blokuje novelu. Vláda přitom novelu předložilo až mnohem později. Takže opozice ani neměla co blokovat.<br> [Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-zakon-o-drahach/)"
@@ -49,9 +53,61 @@ timeline:
         year: "14. března 2020"
         desc: "„Není pravda, že by naši zdravotníci neměli respirátory. Tak mi řekněte kde a já jim to dnes osobně rozvezu,“ prohlásil 14. března ráno. Už o pár hodin později, kdy se zvedla vlna odporu z nemocnic, byl nucen vystoupit ministr zdravotnictví Adam Vojtěch a přiznat, že roušky a respirátory zkrátka nejsou. <br>“Bezesporu se bavíme o stovkách tisíc respirátorů, které potřebujeme sehnat, možná až kolem milionu respirátorů, které bychom potřebovali skutečně získat,” řekl Vojtěch v Českém rozhlase. <br> Sám Babiš se později za nedostatek roušek omluvil, vinu ale nikdy nepřipustil. “Všem se omlouváme, myslím si, že jsme udělali maximum,” prohlásil 17. března. <br>[Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-premianti-v-testovani/)"
         image: assets/img/timeline/1.jpg
+      - title: "V otázce snížení DPH na osobní přepravu komunisté a ČSSD hlasovali proti nám."
+        year: "21. února 2020"
+        desc: "ANO hlasovalo proti tomuto návrhu a KSČM hlasovala pro. Návrh nepodpořil ani jeden z poslanců ČSSD.<br>[Zdroj](https://demagog.cz/vyrok/19039)"
+        image: assets/img/timeline/1.jpg
       - title: "V roce 2019 jsme přesunuli hromadnou přepravu osob z 15 do 10 procent."
         year: "únor 2020"
         desc: "„Ve skutečnosti to bylo tak, že snížení DPH u jízdenek schválilo 94 opozičních poslanců navzdory vládě. Sám Babiš hlasoval proti.<br>  [Zdroj](https://www.seznamzpravy.cz/clanek/babis-se-chlubi-ze-prosadil-nizsi-dane-na-jizdenky-pritom-hlasoval-proti-89297)"
+        image: assets/img/timeline/1.jpg
+      - title: "Od mého vstupu do vlády jsme zatím otevřeli 91 kilometrů nových dálnic a zahájili stavbu dalších 163 kilometrů."
+        year: "1. ledna 2020"
+        desc: "Od roku 2014 bylo zprovozněno 70,1 km dálnic a modernizace D1 v délce 103,5 km. Zahájeno potom bylo pouze 113 kilometrů dálnic a navíc ještě dalších 60 km modernizací D1. <br>[Zdroj](https://demagog.cz/vyrok/18874)"
+        image: assets/img/timeline/1.jpg
+      - title: "Ze 36 hodnocených zemí OECD jsme desátí nejlepší v přehlednosti a stabilitě daňového systému. Před Rakouskem, Kanadou a také Německem."
+        year: "1. ledna 2020"
+        desc: "Česká republika je 10. zemí v žebříčku daňové konkurenceschopnosti z 36 zemí OECD. Oproti minulému roku došlo ke zlepšení o 2 pozice. Tento žebříček měří, nakolik státy OECD dodržují 2 důležité aspekty daňové politiky: konkurenceschopnost a neutralitu. Stabilita ale zmíněna není.<br>[Zdroj](https://demagog.cz/vyrok/18866)"
+        image: assets/img/timeline/1.jpg
+      - title: "To kvůli tradičním demokratickým stranám ČR vrátila Evropské unii už 30,6 miliardy korun, protože špatně spravovaly, rozumějte rozkrádaly, evropské fondy."
+        year: "4. prosince 2019"
+        desc: "Čisté korekce byly za programové období 2007–2013 aplikovány v celkové výši 1,14 mld. Kč. Tuto částku nelze znovu použít a představuje snížení alokace pro členský stát. Část těchto čistých finančních oprav je nicméně stále předmětem sporu mezi ČR a EK.<br>[Zdroj](https://demagog.cz/vyrok/18803)"
+        image: assets/img/timeline/1.jpg
+      - title: "To není závěr nebo stanovisko Evropské komise, to je závěrečná zpráva auditorů jednoho z generálních ředitelství EK, chcete-li jednoho z unijních ministerstev. Komise to neřešila."
+        year: "4. prosince 2019"
+        desc: "Auditní zpráva byla napsána dvěma generálními ředitelstvími Evropské komise, která jsou klíčovou administrativní součástí Evropské komise.<br>[Zdroj](https://demagog.cz/vyrok/18804)"
+        image: assets/img/timeline/1.jpg
+      - title: "To není pravda. Tím evropským se vůbec neargumentuje. Všechno se točí kolem českého zákona o střetu zájmů, tedy lex Babiš."
+        year: "4. prosince 2019"
+        desc: "Finální zpráva auditu z 8. ledna až 15. února 2019, jak ji zveřejnil Deník N, se odvolává jak na tuzemský zákon o střetu zájmů, tak na nařízení EU.<br>[Zdroj](https://demagog.cz/vyrok/18806)"
+        image: assets/img/timeline/1.jpg
+      - title: "Když v roce 2016 Sobotka s Kalouskem zjistili, že ANO má stále vysoké preference, tak vymysleli lex Babiš. Když jsem podle něj v roce 2017 vložil firmu do svěřenských fondů, tak přišly na řadu korunové dluhopisy a Sobotka mě vyhodil z vlády. Před sněmovními volbami pak rozehráli Čapí hnízdo."
+        year: "4. prosince 2019"
+        desc: "Bohuslav Sobotka ani Miroslav Kalousek nebyli předkladateli tzv. lex Babiš, ani pozměňovacích návrhů k němu. Stejně tak nevyvolali před volbami v roce 2017 hlasování o vydání Andreje Babiše k trestnímu stíhání. PS o tom hlasovala dle jednacího řádu v reakci na žádost Policie.<br>[Zdroj](https://demagog.cz/vyrok/18808)"
+        image: assets/img/timeline/1.jpg
+      - title: "To on (Lukáš Wagenknecht, pozn. Demagog.cz) udal náš IT systém na ministerstvu pro místní rozvoj, v důsledku čehož jsme pak museli vrátit 800 milionů bez jakékoli šance je získat zpět. A to navzdory tomu, že policie a finanční správa podezření vyšetřily a shledaly je bezpředmětné. "
+        year: "4. prosince 2019"
+        desc: "V souvislosti s auditem, který zpracovalo Ministerstvo financí řízené Andrejem Babišem a zaslalo jej Evropské komisi, vznikla ČR škoda více než 800 mil. Kč. Korekce se týkaly jen půl miliardy korun, peníze se však nevracely, EU jen některé dotace neproplatila.<br>[Zdroj](https://demagog.cz/vyrok/18809)"
+        image: assets/img/timeline/1.jpg
+      - title: "(...) jeden z auditorů kandidoval na 13. místě za Piráty do europarlamentu."
+        year: "4. prosince 2019"
+        desc: "Na 13. místě pirátské kandidátky do voleb do EP v roce 2019 kandidoval Michal Šalamoun, ten však není zaměstnancem Evropské komise. Kandidát č. 17 Petr Jirman je sice zaměstnancem GŘ REGIO, které se podílelo na auditní zprávě, na zprávě o Babišově střetu zájmů se však nepodílel.<br>[Zdroj](https://demagog.cz/vyrok/18810)"
+        image: assets/img/timeline/1.jpg
+      - title: "Prezident má na celou věc (obsazení postu ministra kultury, pozn. Demagog.cz), kvůli níž už dvakrát musel přerušit dovolenou, nějaký názor."
+        year: "27. července 2019"
+        desc: "Miloš Zeman doposud přerušil svou dovolenou z důvodu krize na ministerstvu kultury pouze jednou, a to na konci června.<br>[Zdroj](https://demagog.cz/vyrok/18237)"
+        image: assets/img/timeline/1.jpg
+      - title: "Ústava při výměně ministra žádné termíny nemá, takže není porušována."
+        year: "27. července 2019"
+        desc: "Ustanovení čl. 74 Ústavy skutečně žádnou explicitně vyjádřenou lhůtu neobsahuje. Ústavní soud přitom judikoval, že v takovém případě má prezident jednat bez zbytečného odkladu. Toto stanovisko zastávají i ústavní právníci.<br>[Zdroj](https://demagog.cz/vyrok/18242)"
+        image: assets/img/timeline/1.jpg
+      - title: "Nemám ale žádnou možnost prezidenta k tomu donutit (ke jmenování Michala Šmardy ministrem, pozn. Demagog.cz)."
+        year: "27. července 2019"
+        desc: "Premiér má možnost podat kompetenční žalobu či iniciovat podání žaloby pro hrubé porušení Ústavy. Obě možnosti však sám vyloučil.<br>[Zdroj](https://demagog.cz/vyrok/18245)"
+        image: assets/img/timeline/1.jpg
+      - title: "A pokud jde o koaliční smlouvu, tak jsem podle ní vždy postupoval, na rozdíl od expremiéra Sobotky, který ji porušoval, když nám mluvil do personálních nominací, svévolně mě odvolal z financí a odmítl místo mě jmenovat paní Schillerovou."
+        year: "27. července 2019"
+        desc: "Postup expremiéra Sobotky byl opřen o ustanovení koaliční smlouvy a byl s ní v souladu, neboť ministři měli dle koaliční smlouvy respektovat zásadu morální bezúhonnosti, která byla chováním Andreje Babiše zpochybněna.<br>[Zdroj](https://demagog.cz/vyrok/18257)"
         image: assets/img/timeline/1.jpg
       - title: "Neomezená data jsou práce mého týmu"
         year: "léto 2019"
