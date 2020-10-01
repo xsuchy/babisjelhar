@@ -31,67 +31,58 @@ timeline:
     title: "Lži" 
     text: "Doložené lži"
     section: timeline
+    start_align: "left"
     events:
       - title: "Já chci jen dodat, že nosím respirátor dvojku, téměř všude."
         year: "2. září 2020"
         desc: "Po kontaktu s infikovanou hygieničkou splňoval všechna kritéria pro nařízení karantény. A mimo kamery si respirátor sundává.<br>[Zdroj](https://twitter.com/PavelHertl/status/1301200378994851841) a [Zdroj](https://www.facebook.com/vlastimil.strachovsky.3/posts/10220666180776817)"
         image: assets/img/timeline/1.jpg
         alt: 
-        align: left
       - title: "Tolik, co my testujeme, nikdo netestuje"
         year: "15. září 2020"
         desc: "„Chtěl bych poprosit všechny, abychom se už konečně přestali strašit,“ řekl během setkání premiér Babiš. Jeho slova přicházejí v době kdy se nácházíme na 21. místě v EU. <br>[Zdroj](https://www.forum24.cz/nikdo-netestuje-tolik-co-my-lhal-babis-realita-je-pritom-uplne-jina-a-mnohem-horsi/)"
         image: assets/img/timeline/1.jpg
-        alt: 
-        align: right
+        alt:
       - title: "Není pravda, že by naši zdravotníci neměli respirátory."
         year: "14. března 2020"
         desc: "„Není pravda, že by naši zdravotníci neměli respirátory. Tak mi řekněte kde a já jim to dnes osobně rozvezu,“ prohlásil 14. března ráno. Už o pár hodin později, kdy se zvedla vlna odporu z nemocnic, byl nucen vystoupit ministr zdravotnictví Adam Vojtěch a přiznat, že roušky a respirátory zkrátka nejsou. <br>“Bezesporu se bavíme o stovkách tisíc respirátorů, které potřebujeme sehnat, možná až kolem milionu respirátorů, které bychom potřebovali skutečně získat,” řekl Vojtěch v Českém rozhlase. <br> Sám Babiš se později za nedostatek roušek omluvil, vinu ale nikdy nepřipustil. “Všem se omlouváme, myslím si, že jsme udělali maximum,” prohlásil 17. března. <br>[Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-premianti-v-testovani/)"
         image: assets/img/timeline/1.jpg
         alt: 
-        align: left
       - title: "Vláda pomohla k zastavení 200 tisíc exekucí"
         year: "31. března 2019"
         desc: "Vláda prokazatelně neudělala nic. <br>[Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-zastaveni-exekuci/)"
         image: assets/img/timeline/1.jpg
         alt: 
-        align: right
       - title: "Děláme analýzu k neziskovkám"
         year: "léto 2018"
         desc: "„Děláme analýzu. Poprvé v historii této země se tím premiér zabývá. Když jsem byl ministrem financí a žádal jsem o to (premiéra Bohuslava) Sobotku, tak ho to nezajímalo,” řekl v létě 2018. <br>Ve skutečnosti nikdo takovou analýzu dosud ani nezačal zpracovávat. <br>[Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-s-analyzou-k-neziskovam/)"
         image: assets/img/timeline/1.jpg
         alt: image alt text
-        #align: #default is left       
       - title: "Vyhrál jsem soud o StB"
         year: "únor 2018"
         desc: "„Já jsem to vyhrál, ten soud. A znovu to vyhraju. Protože jsem nikdy nespolupracoval, nic jsem nepodepsal, žádný důkaz neexistuje,“ prohlásil v únoru 2018.<br>Realita? Po několika prohraných soudech Babiš své žaloby stáhl. <br> [Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-jeho-vyhra-soudu-o-stb/)"
         image: assets/img/timeline/1.jpg
         alt: 
-        align: right
       - title: "V roce 2019 jsme přesunuli hromadnou přepravu osob z 15 do 10 procent."
         year: "únor 2020"
         desc: "„Ve skutečnosti to bylo tak, že snížení DPH u jízdenek schválilo 94 opozičních poslanců navzdory vládě. Sám Babiš hlasoval proti.<br>  [Zdroj](https://www.seznamzpravy.cz/clanek/babis-se-chlubi-ze-prosadil-nizsi-dane-na-jizdenky-pritom-hlasoval-proti-89297)"
         image: assets/img/timeline/1.jpg
         alt: 
-        #align: #default is left
       - title: "Neomezená data jsou práce mého týmu"
         year: "léto 2019"
         desc: "@TMobile_CZE: Dobrý den, můžu vám potvrdit, že s představiteli státu, kteří mají na starosti telekomunikační trh, vedeme průběžný dialog a jednání, ale přímo na tvorbě konkrétních nabídek, s nimi nespolupracujeme. <br> [Zdroj](https://zpravy.aktualne.cz/ekonomika/data-babis/r~77a4d410910011e9b6a9ac1f6b220ee8/)"
         image: assets/img/timeline/1.jpg
         alt:
-        align: right
       - title: "Opozice blokuje přijetí novely o drahách"
         year: "jaro 2020"
         desc: "„Po sérii neštěstí na železnici zaútočil na opozici, že blokuje novelu. Vláda přitom novelu předložilo až mnohem později. Takže opozice ani neměla co blokovat.<br> [Zdroj](https://neovlivni.cz/databaze-lzi-andrej-babis-a-zakon-o-drahach/)"
         image: assets/img/timeline/1.jpg
         alt: 
-        #align: #default is left
       - title: "Prohlašuji na zdraví mých dětí, že nikdy nezasáhnu do práce Mafry"
         year: "27. června 2013"
         desc: "Přitom jenom o pár dní později unikly nahrávky rozhovoru Babiše s redaktory, kde zasahuje do chodu redakce. <br> [Zdroj](https://echo24.cz/a/i4HhS/babis-prohlasuji-na-zdravi-mych-deti-ze-nikdy-nezasahnu-do-prace-mafry)"
         image: assets/img/timeline/1.jpg
         alt:
-        align: right
 
     end: "Něco chybí? Napište mi!"
 
