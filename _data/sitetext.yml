@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Viděli jste tu debatu, kdě jsem ani nedostal slovo. Kde jsem nemohl reagovat na ty lži našich oponentů."
+        year: "4. října 2020"
+        desc: "Babiš v debatě reagoval 15x. Nejvíce ze všech! <br>[Zdroj](https://twitter.com/michalblaha/status/1313493465016102912)"
+        image: assets/img/timeline/1.jpg
       - title: "Tolik, co my testujeme, nikdo netestuje"
         year: "15. září 2020"
         desc: "„Chtěl bych poprosit všechny, abychom se už konečně přestali strašit,“ řekl během setkání premiér Babiš. Jeho slova přicházejí v době kdy se nácházíme na 21. místě v EU. <br>[Zdroj](https://www.forum24.cz/nikdo-netestuje-tolik-co-my-lhal-babis-realita-je-pritom-uplne-jina-a-mnohem-horsi/)"
