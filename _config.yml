@@ -17,7 +17,7 @@ url    : "http://babisjelhar.cz" # the base hostname & protocol for your site, e
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Babiš je lhář
-email      : opravdu@babisjelhar.cz #this is also the email contact forms will go to
+email      : mirek@rodina-sucha.cz #this is also the email contact forms will go to
 description: "Babiš je lhář"
 author     : Miroslav Suchý
 # logo:     #optional, defaults to site title
