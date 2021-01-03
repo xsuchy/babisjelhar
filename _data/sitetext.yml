@@ -33,9 +33,13 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "My zme přerušili schvalování státního rozpočtu snaď poprvé v historii naší země a nic nepomohlo, tak nakonec zme s tím museli súhlasiť, protože zkrátka opozice nás nechala na holičkách."
+        year: "20. prosince 2020"
+        desc: "Není-li rozpočet přijat do 31. 12., je do jeho schválení rozpočtové provizorium. Od 1993 se to stalo 2x, Zemanově vládě. Její první rozpočet byl schválen 15. ledna 1999. Další rok byl schválen 26. ledna 2000, předcházelo tomu podepsání opoziční smlouvy ČSSD-ODS. <br>[Zdroj](https://twitter.com/michalblaha/status/1340923961291415552)"
+        image: assets/img/timeline/1.jpg
       - title: "Rozšířila se fáma, že chci ve čtvrtek strávit v Senátu jen 1,5h a pak odletět do Bruselu na ER. Není to pravda. V Senátu budu kvůli daňovému balíčku tak dlouho, jak bude třeba. I kdyby mě měl v Bruselu zastoupit polský premiér. Snad ale bude ta debata konstruktivní a pragmatická."
         year: "8. prosince 2020"
-        desc: "Babiš se v senátu zdržel dvě hodiny a pak odletěl do Brusellu. Před skončením projednávání. <br>[Zdroj](https://twitter.com/AndrejBabis/status/1336336284847984642/retweets/with_comments"
+        desc: "Babiš se v senátu zdržel dvě hodiny a pak odletěl do Brusellu. Před skončením projednávání. <br>[Zdroj](https://twitter.com/AndrejBabis/status/1336336284847984642/retweets/with_comments)"
         image: assets/img/timeline/1.jpg
       - title: "Jediná chyba, co jsem udělal, byla, že jsem uvěřil expertům na zdravotnictví v srpnu, kdy říkali, že virus slábne, a já to bral jako hotovou věc"
         year: "28. listopadu 2020"
