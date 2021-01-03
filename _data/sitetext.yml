@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Rozšířila se fáma, že chci ve čtvrtek strávit v Senátu jen 1,5h a pak odletět do Bruselu na ER. Není to pravda. V Senátu budu kvůli daňovému balíčku tak dlouho, jak bude třeba. I kdyby mě měl v Bruselu zastoupit polský premiér. Snad ale bude ta debata konstruktivní a pragmatická."
+        year: "8. prosince 2020"
+        desc: "Babiš se v senátu zdržel dvě hodiny a pak odletěl do Brusellu. Před skončením projednávání. <br>[Zdroj](https://twitter.com/AndrejBabis/status/1336336284847984642/retweets/with_comments"
+        image: assets/img/timeline/1.jpg
       - title: "Viděli jste tu debatu, kdě jsem ani nedostal slovo. Kde jsem nemohl reagovat na ty lži našich oponentů."
         year: "4. října 2020"
         desc: "Babiš v debatě reagoval 15x. Nejvíce ze všech! <br>[Zdroj](https://twitter.com/michalblaha/status/1313493465016102912)"
