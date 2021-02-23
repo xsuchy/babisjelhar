@@ -6,7 +6,7 @@ header:
 
 services:
     title: " "
-    text: "Naleznete zde seznam velmi dobře doložitelných lží Andreje Babiše. Lži, které lze dokladovat a lži za které byl soudem odsouzen. Lži, které jsou závažné. Takové to denní lhaní přeskočím."
+    text: "Naleznete zde seznam velmi dobře doložitelných lží Andreje Babiše. Lži, které lze dokladovat a lži za které byl soudem odsouzen. Lži, které jsou závažné. Takové to denní lhaní přeskočím. Tato není kampaní, žádné politcké strany. Jsem obyčejný naštvaný občan, kterému není jedno, že premiér lže a zavádí lež jako standard a jeho spolupracovníci se pak také nebojí lhát občanům. Naštvaný Mirek Suchý."
 
 #    section: services
 #    list:
@@ -36,6 +36,7 @@ timeline:
       - title: "Pokud Karlovarský kraj požádá o nějaké lůžka v Německu, tak okamžitě volám Saského premiéra a volám naší konzul komu to zařizovať. Ale když mě nikdo nepožádá, tak to nemůžu dělat."
         year: "21. února 2020!"
         desc: "Hejtman Karlovarského kraje Petr Kulhánek o to vládu a ministra zdravotnictví opakovaně žádal od začátku ledna. <br>[Zdroj](https://www.ceskatelevize.cz/porady/10117034229-168-hodin/221452801100221/)"
+        image: assets/img/timeline/1.jpg
       - title: "My zme přerušili schvalování státního rozpočtu snaď poprvé v historii naší země a nic nepomohlo, tak nakonec zme s tím museli súhlasiť, protože zkrátka opozice nás nechala na holičkách."
         year: "20. prosince 2020"
         desc: "Není-li rozpočet přijat do 31. 12., je do jeho schválení rozpočtové provizorium. Od 1993 se to stalo 2x, Zemanově vládě. Její první rozpočet byl schválen 15. ledna 1999. Další rok byl schválen 26. ledna 2000, předcházelo tomu podepsání opoziční smlouvy ČSSD-ODS. <br>[Zdroj](https://twitter.com/michalblaha/status/1340923961291415552)"
