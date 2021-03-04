@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Babiš: 8. ledna mi řekla policie, že je člověk, který chce zastřelit moji rodinu a mě. (..) Moje žena šla do Dubaje, ano, protože se bála. // Moderátoka: Proč jste to neřekl? // Babiš: Protože moje žena to nevěděla."
+        year: "28. února 2021"
+        desc: "Takže se bála, protože to nevěděla? Tohle je první lež, kterou si Babiš vyvrátil sám. [Zdroj](https://cnn.iprima.cz/porady/partie/28022021)"
+        image: assets/img/timeline/1.jpg
       - title: "My jsme se domluvili (s Bartošem a Rakušanem) na tom pandemickém zákoně, ale teďka z nepochopitelných důvodů nás nepodpořili v nouzového stavu."
         year: "26. února 2021"
         image: assets/img/timeline/1.jpg
