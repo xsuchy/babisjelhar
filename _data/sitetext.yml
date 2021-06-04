@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "A do této snížené sazby (DPH) jsme postupně převedli položky jako dodávky tepla, vodné a stočné, hromadnou dopravu, ..."
+        year: "3. února 2021"
+        desc: "Pro změnu hlasovali všichni poslanci kromě poslanců ANO a ČSSD. [Zdroj](https://psp.cz/sqw/hlasy.sqw?g=68622&l=cz)"
+        image: assets/img/timeline/1.jpg
       - title: "Babiš: 8. ledna mi řekla policie, že je člověk, který chce zastřelit moji rodinu a mě. (..) Moje žena šla do Dubaje, ano, protože se bála. // Moderátoka: Proč jste to neřekl? // Babiš: Protože moje žena to nevěděla."
         year: "28. února 2021"
         desc: "Takže se bála, protože to nevěděla? Tohle je první lež, kterou si Babiš vyvrátil sám. [Zdroj](https://cnn.iprima.cz/porady/partie/28022021)"
