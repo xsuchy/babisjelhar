@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "A v létě otevíráme ikonický bazén hotelu Thermal. To je ten co jste nechali zchátrat."
+        year: "3. června 2021"
+        desc: "Úpadek bazénu nastal až po té co Babiš dosadil své lidi. A ikonický 50 metrový bazén byl předělán na několik malých bazénků. [Zdroj](https://twitter.com/korda/status/1400363257475514373)"
+        image: assets/img/timeline/1.jpg
       - title: "A do této snížené sazby (DPH) jsme postupně převedli položky jako dodávky tepla, vodné a stočné, hromadnou dopravu, ..."
         year: "3. června 2021"
         desc: "Pro změnu hlasovali všichni poslanci kromě poslanců ANO a ČSSD. [Zdroj](https://psp.cz/sqw/hlasy.sqw?g=68622&l=cz)"
