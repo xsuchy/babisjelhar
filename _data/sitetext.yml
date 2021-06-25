@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Armádě jsme navyšovali rozpočet a modernizovali výbavu. Nové obrněné transportéry, radiolokátory, vrtulníky i tisíce nových útočných pušek a pistolí."
+        year: "25. června 2021"
+        desc: "Ministerstvo obrany sice podepsalo smlouvy na nákup nových radiolokátorů, vrtulníků či pušek, ale nedávno přiznalo, že klíčovou zakázku na 210 pásových obrněnců podepsat během funkčního období nestihne. Pokud premiér Babiš pod „obrněnými transportéry“ nemyslel kolové obrněnce Pandur, jejich poslední tranši schválila Sobotkova vláda. A přestože ministr obrany Lubomír Metnar podepsal nákup pancéřovaných vozidel Titus, v jejich případě nejde mluvit o „obrněných transportérech“. [Zdroj](https://denikn.cz/651471/babis-rozeslal-do-domacnosti-prehled-svych-zasluh-overili-jsme-ktere-mu-skutecne-nalezi/?ref=tit)"
+        image: assets/img/timeline/1.jpg
       - title: "A v létě otevíráme ikonický bazén hotelu Thermal. To je ten co jste nechali zchátrat."
         year: "3. června 2021"
         desc: "Úpadek bazénu nastal až po té co Babiš dosadil své lidi. A ikonický 50 metrový bazén byl předělán na několik malých bazénků. [Zdroj](https://twitter.com/korda/status/1400363257475514373)"
