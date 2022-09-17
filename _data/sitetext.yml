@@ -33,6 +33,26 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "My jsme snižovali daně. My jsme snížili daň na 15 %. Celkově jsme snížili daně o 507 miliard."
+        year: "6. října 2021"
+        desc: "Hnutí ANO skutečně prosadilo zrušení superhrubé mzdy, tedy snížení reálné sazby daně z příjmu fyzických osob na 15 %. Pokud však sečteme negativní efekty daňových změn přijatých od roku 2014, dostáváme se jen k číslu cca 350 miliard korun.  [Zdroj](https://demagog.cz/vyrok/21154)"
+        image: assets/img/timeline/1.jpg
+      - title: "Ti Piráti říkaj: zavedeme ekologickou daň, zdaníme nadměrné byty."
+        year: "6. října 2021"
+        desc: "Koalice Pirátů a STAN neříká, že plánuje zdanit nadměrné byty. Andrej Babiš nicméně správně uvádí, že koalice mluví o zavedení různých ekologických prvků do daňového systému, což lze zjednodušeně označit jako ekologickou daň. [Zdroj](https://demagog.cz/vyrok/21161)"
+        image: assets/img/timeline/1.jpg
+      - title: "1 300 miliard přijde z evropských peněz."
+        year: "6. října 2021"
+        desc: "Z Evropské unie by mělo podle rozpočtu na období 2021–2027 a programu NextGenerationEU přijít pouze 1085,8 mld. Kč. [Zdroj](https://demagog.cz/vyrok/21162)"
+        image: assets/img/timeline/1.jpg
+      - title: "Piráti jasně řekli, že chtějí zdaňovat nadrozměrné byty, a jeden pirát dokonce řekl, že chce vyvlastňovat jak podle Berlínu."
+        year: "6. října 2021"
+        desc: "Koalice Pirátů a STAN neříká, že plánuje zdanit nadměrné byty. Zároveň se pirátský poslanec František Kopřiva ke svému tweetu o výsledcích berlínského referenda vyjádřil tak, že vyvlastnění bytů rozhodně nepodporuje. [Zdroj](https://demagog.cz/vyrok/21185)"
+        image: assets/img/timeline/1.jpg
+      - title: "TOP 09 navrhovala na vyznamenání (…) Pekovou a i Šmuclera."
+        year: "6. října 2021"
+        desc: "Soňu Pekovou navrhlo na státní vyznamenání hnutí STAN, nikoli TOP 09. Roman Šmucler nebyl navržen na státní vyznamenání vůbec. [Zdroj](https://demagog.cz/vyrok/21196)"
+        image: assets/img/timeline/1.jpg
       - title: "Já jsem jasně prokázal jako jediný politik v historii této země všechny moje daňové příjmy od 1996."
         year: "6. října 2021"
         desc: "Andrej Babiš zveřejnil v roce 2017 závěry auditorských firem, z kterých plynulo, že od roku 1996 do roku 2017 vydělal 2,4 miliard korun. Avšak zprávy neobsahovaly všechny Babišovy zdanitelné příjmy. [Zdroj](https://demagog.cz/vyrok/21227)"
