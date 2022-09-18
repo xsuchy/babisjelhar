@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Průměrná mzda narostla za nás (během druhé vlády Andreje Babiše, pozn. Demagog.cz) o 10 tisíc."
+        year: "16. prosince 2021"
+        desc: "Průměrná hrubá měsíční mzda od jmenování druhé vlády Andreje Babiše v roce 2018 vzrostla z 32 003 Kč na 37 499 Kč. Jednalo se tedy o nárůst o 5 496 Kč. [Zdroj](https://demagog.cz/vyrok/21430)"
+        image: assets/img/timeline/1.jpg
       - title: "My jsme snižovali daně. My jsme snížili daň na 15 %. Celkově jsme snížili daně o 507 miliard."
         year: "6. října 2021"
         desc: "Hnutí ANO skutečně prosadilo zrušení superhrubé mzdy, tedy snížení reálné sazby daně z příjmu fyzických osob na 15 %. Pokud však sečteme negativní efekty daňových změn přijatých od roku 2014, dostáváme se jen k číslu cca 350 miliard korun.  [Zdroj](https://demagog.cz/vyrok/21154)"
