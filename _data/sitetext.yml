@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Slováci podepsali memorandum 16. února 2022. (...) Není to nezávazné."
+        year: "22. září 2022"
+        desc: "Slovenská ministerstva hospodářství a financí podepsala 16. února s hlavním akcionářem Slovenských elektráren memorandum, které se týkalo zastropování cen elektřiny. Toto memorandum nicméně není právně závazné. [Zdroj](https://demagog.cz/vyrok/22150)"
+        image: assets/img/timeline/1.jpg
       - title: "Průměrná mzda narostla za nás (během druhé vlády Andreje Babiše, pozn. Demagog.cz) o 10 tisíc."
         year: "16. prosince 2021"
         desc: "Průměrná hrubá měsíční mzda od jmenování druhé vlády Andreje Babiše v roce 2018 vzrostla z 32 003 Kč na 37 499 Kč. Jednalo se tedy o nárůst o 5 496 Kč. [Zdroj](https://demagog.cz/vyrok/21430)"
