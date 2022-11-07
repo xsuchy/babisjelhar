@@ -373,7 +373,13 @@ about:
 
 contact:
     title: "Kontakt"
-    text: "mirek@rodina-sucha.cz"
+    text: |
+      mirek@rodina-sucha.cz
+      
+      Registrované třetí osoby pro kampaň prezidentských voleb 2023:
+      
+      * redirect prezidentbabis.cz 2-2022-PRE-001
+      * samotna domena babisjelhar.cz bude doplneno
     section: contact
     
 footer:
