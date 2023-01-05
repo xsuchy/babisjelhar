@@ -357,7 +357,10 @@ timeline:
         year: "6. listopadu 2014"
         desc: "30. října 2022 Andrej Babiš oznámil plán kandidovat na prezidenta. 4. listopadu 2022 podal na vnitru přihlášku ke kandidatuře na prezidenta."
         image: assets/img/timeline/1.jpg
-
+      - title: "S Čapím hnízdem nemám nic společného... Nevím, komu to patří."
+        year: "říjen 2013"
+        desc: "Tohle označil u soudu v roce 2023 za vlastní lež sám Babiš. [Zdroj](https://www.novinky.cz/clanek/volby-prezidenta-o-capim-hnizde-jsem-lhal-omluvil-se-babis-jsem-predevsim-tata-chranil-jsem-deti-40417573)"
+        image: assets/img/timeline/1.jpg
       - title: "Prohlašuji na zdraví mých dětí, že nikdy nezasáhnu do práce Mafry"
         year: "27. června 2013"
         desc: "Přitom jenom o pár dní později unikly nahrávky rozhovoru Babiše s redaktory, kde zasahuje do chodu redakce. <br> [Zdroj](https://echo24.cz/a/i4HhS/babis-prohlasuji-na-zdravi-mych-deti-ze-nikdy-nezasahnu-do-prace-mafry)"
