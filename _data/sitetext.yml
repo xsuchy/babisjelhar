@@ -33,6 +33,14 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Dlouho jste tvrdil, že jste obětí 'polistopadového kartelu'....Já jsem vždycky používal název 'tradiční demokratické strany s bohatou korupční historií'"
+        year: "12. ledna 2023"
+        desc: "Babiš termín 'polistopadový kartel' běžně používá ve své rétorice [Zdroj](https://youtu.be/ZvLtmfQta_8?t=17) [Zdroj](https://www.youtube.com/watch?v=_Qv0O3mgSBw)"
+        image: assets/img/timeline/1.jpg
+      - title: "Všechny členské země (NATO) rotují a mají nárok na tu pozicici (předseda vojenského výboru NATO)."
+        year: "12. ledna 2023"
+        desc: "Všechny členské země mohou nominovat svého kandidáta, nárok na rotaci tam žádný není, ani to není zvykem. [Zdroj](https://cs.wikipedia.org/wiki/P%C5%99edseda_vojensk%C3%A9ho_v%C3%BDboru_NATO)"
+        image: assets/img/timeline/1.jpg
       - title: "Slováci podepsali memorandum 16. února 2022. (...) Není to nezávazné."
         year: "22. září 2022"
         desc: "Slovenská ministerstva hospodářství a financí podepsala 16. února s hlavním akcionářem Slovenských elektráren memorandum, které se týkalo zastropování cen elektřiny. Toto memorandum nicméně není právně závazné. [Zdroj](https://demagog.cz/vyrok/22150)"
