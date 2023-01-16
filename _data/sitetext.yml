@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Já říkám jenom pravdu."
+        year: "14. ledna 2023"
+        desc: "Vzhledem k ostatním lžím a několika soudním rozsudkům usvědčujícího pana Babiše ze lží hodnotím tohle jako lež. [Zdroj](https://youtu.be/cpMHAh6fQMo) [Zdroj](https://denikn.cz/1054556/ja-rikam-jen-pravdu-babis-promenil-tiskovou-konferenci-v-ohnostroj-vymyslu-overili-jsme-je/?ref=inc&cst=1e88a10dcdcfeee34a281a34c93fa5deafabae34)"
+        image: assets/img/timeline/1.jpg
       - title: "Dlouho jste tvrdil, že jste obětí 'polistopadového kartelu'....Já jsem vždycky používal název 'tradiční demokratické strany s bohatou korupční historií'"
         year: "12. ledna 2023"
         desc: "Babiš termín 'polistopadový kartel' běžně používá ve své rétorice [Zdroj](https://youtu.be/ZvLtmfQta_8?t=17) [Zdroj](https://www.youtube.com/watch?v=_Qv0O3mgSBw)"
