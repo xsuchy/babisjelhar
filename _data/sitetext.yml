@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Budu chodit do Sněmovny, začal jsem tam chodit"
+        image: assets/img/timeline/1.jpg
+        year: "8. února 2023"
+        desc: "Po tomhle oznámení hned druhý den nepřišel do Sněmovny. Údajně z pracovních důvodů. Ale důvody nebyl schopen blíže specifikovat. [Zdroj](https://www.novinky.cz/clanek/domaci-babis-vcera-tvrdil-ze-zacne-chodit-do-snemovny-dnes-to-nevyslo-40422433)"
       - title: "„Já jsem s nimi nejednal.“ (míněno s Jaroslavem Foldynou a stalinistou Josefem Skálou)"
         image: assets/img/timeline/1.jpg
         year: "22. ledna 2023"
