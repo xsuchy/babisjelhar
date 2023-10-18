@@ -33,6 +33,34 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Fico byl ten, který pomohl Slovensku v rámci referenda do EU, do eurozóny."
+        image: assets/img/timeline/1.jpg
+        year: "3. října 2023"
+        desc: "Robert Fico a jeho strana SMER-SD přispěli ke slovenskému přijetí eura, významně se ale nepodíleli na vstupu země do Evropské unie. SMER tehdy nebyl ve vládě a během celostátního referenda nepatřil k hlavním podporovatelům kampaně pro přičlenění do EU. [Zdroj](https://demagog.cz/vyrok/22968)"
+      - title: "Jo, ale pohrozila (Věra Jourová, pozn. Demagog.cz), že možná příště ten Babiš nemůže točit to video."
+        image: assets/img/timeline/1.jpg
+        year: "3. října 2023"
+        desc: "Věra Jourová se k videu, které Andrej Babiš zveřejnil před slovenskými volbami (a kde varoval před volbou Progresivního Slovenska), nevyjadřovala. Veřejně na něj nijak nereagovala, a ani Babišovi „nepohrozila“, že před dalšími volbami obdobné video nemůže natočit. [Zdroj](https://demagog.cz/vyrok/22978)"
+      - title: "Jako premiér jsem plnil závazky Severoatlantické aliance – 700 vojáků do Pobaltí, gripeny do Estonska."
+        image: assets/img/timeline/1.jpg
+        year: "18. února 2023"
+        desc: "Během vlády Andreje Babiše bylo skutečně rozhodnuto o vyslání pěti letounů JAS-39C Gripen na misi v Estonsku. Pro mise v Pobaltí ale Babišův kabinet dohromady schválil jen vyslání 385 vojáků. Babišova vláda navíc neplnila závazek vydávat alespoň 2 % HDP na obranu. [Zdroj](https://demagog.cz/vyrok/22531)"
+      - title: "Když byly vládní strany v opozici, EET blokovaly přes 270 dní."
+        image: assets/img/timeline/1.jpg
+        year: "18. února 2023"
+        desc: "Obstrukce opozice při schvalování zákona o zavedení elektronické evidence tržeb (EET) trvaly od 27. listopadu 2015 do 10. února 2016, tedy 75 dní. [Zdroj](https://demagog.cz/vyrok/22540)"
+      - title: "My jsme inflaci srazili v prosinci 2021 na 5,3 procenta. On (Petr Fiala, pozn. Demagog.cz) má dneska 17 procent."
+        image: assets/img/timeline/1.jpg
+        year: "18. února 2023"
+        desc: "Andrej Babiš správně uvádí hodnotu inflace v lednu 2023. Není ovšem pravda, že by jeho vláda meziroční inflaci v prosinci 2021 „srazila“ –⁠ tou dobou činila 6,6 procenta a rostla nepřetržitě už od června 2021. [Zdroj](https://demagog.cz/vyrok/22544)"
+      - title: "Změnil jsem dost už jako ministr financí – (...) nejnižší zadlužení."
+        image: assets/img/timeline/1.jpg
+        year: "18. února 2023"
+        desc: "V době, kdy byl Andrej Babiš ministrem, celková výše státního dluhu i jeho podíl na HDP klesaly, ne však na nejnižší úroveň. Nejnižší nebyl ani vládní dluh v poměru k HDP ve srovnání se zeměmi EU, v Babišově éře Česko nepatřilo ani mezi země nejrychleji snižující své zadlužení. [Zdroj](https://demagog.cz/vyrok/22549)"
+      - title: "Některé firmy zavolaly zaměstnance a řekly: Dejte nám lístky (volební se jménem Andreje Babiše, pozn. Demagog.cz)."
+        image: assets/img/timeline/1.jpg
+        year: "18. února 2023"
+        desc: "Žádný veřejný zdroj nepotvrzuje, že by takto jakýkoli zaměstnavatel jednal. Obrátili jsme se na Andreje Babiše se žádostí o další informace, odpověď jsme však nedostali. [Zdroj](https://demagog.cz/vyrok/22556)"
       - title: "Budu chodit do Sněmovny, začal jsem tam chodit"
         image: assets/img/timeline/1.jpg
         year: "8. února 2023"
