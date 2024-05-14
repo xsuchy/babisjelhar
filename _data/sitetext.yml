@@ -33,10 +33,34 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pravda je, že jednání o míru už se vedla. Vedly je některé členské státy NATO a nedopadlo to. No, nedopadlo, protože ve finále zkrátka – to je z veřejných zdrojů – do toho hodil vidle Boris Johnson."
+        image: assets/img/timeline/1.jpg
+        year: "9. dubna 2024"
+        desc: "Vyjednávání Ukrajiny a Ruska zhatilo odhalení zločinů v Buči. Premiér Johnson na návštěvu Ukrajiny přijel až dva dny po krachu jednání. [Zdroj](https://denikn.cz/1421641/nejsem-prorusky-rika-babis-siri-ale-lez-kremlu-ze-mir-zhatil-britsky-expremier-johnson/?ref=inc?ref=pop&rtm_source=web&rtm_medium=article&rtm_campaign=share_button&rtm_variant=copy_url&rtm_content=6a492c96-5aa5-473c-b743-c3a0dcfac0f7)"
+      - title: "Na začátku války se o tom mluvilo, o té dohodě. Akorát přišel Boris Johnson – to je takový bývalý premiér, já jsem ho potkal asi třikrát a ten dává rozhovory za milion dolarů, jak jsem se dozvěděl – a ten to celé zabil."
+        image: assets/img/timeline/1.jpg
+        year: "5. března 2024"
+        desc: "Vyjednávání Ukrajiny a Ruska zhatilo odhalení zločinů v Buči. Premiér Johnson na návštěvu Ukrajiny přijel až dva dny po krachu jednání. [Zdroj](https://denikn.cz/1421641/nejsem-prorusky-rika-babis-siri-ale-lez-kremlu-ze-mir-zhatil-britsky-expremier-johnson/?ref=inc?ref=pop&rtm_source=web&rtm_medium=article&rtm_campaign=share_button&rtm_variant=copy_url&rtm_content=6a492c96-5aa5-473c-b743-c3a0dcfac0f7)"
+      - title: "Rostoucí inflaci jsme včasným snížením DPH na energie srazili na 5,3 %."
+        image: assets/img/timeline/1.jpg
+        year: "2. ledna 2024"
+        desc: "Kabinet Andreje Babiše v posledních dvou měsících roku 2021 prominul DPH u elektřiny a plynu. Není ovšem pravda, že by toto opatření vedlo k poklesu inflace za Babišovy vlády – v prosinci 2021 činila 6,6 procenta a rostla nepřetržitě už od června 2021. [Zdroj](https://demagog.cz/vyrok/23093)"
+      - title: "Máme jedny z nejvyšších cen elektřiny v EU a od nového roku vláda ještě přehodí na lidi a firmy poplatky za distribuci a obnovitelné zdroje ve výši dalších 62 miliard korun."
+        image: assets/img/timeline/1.jpg
+        year: "2. ledna 2024"
+        desc: "Česko mělo v prvním pololetí 2023 až 11. nejdražší elektřinu z členských států EU. Vláda od roku 2024 sice obnovila povinnost platit poplatky za podporované zdroje energie, i nadále se však na jejich financování podílí stát. Celkové výdaje navíc mají dosáhnout pouze 36 mld. Kč. [Zdroj](https://demagog.cz/vyrok/23105)"
+      - title: "Itálie a Španělsko nás (v HDP na hlavu během Fialovy vlády, pozn. Demagog.cz) znovu předběhly."
+        image: assets/img/timeline/1.jpg
+        year: "2. ledna 2024"
+        desc: "Podle dat OECD a Světové banky Španělsko nepředstihlo Českou republiku během vlády Petra Fialy v HDP na jednoho obyvatele. Itálie sice Česko překonala, stalo se tak ale ještě v posledním roce vládnutí Babišova kabinetu. [Zdroj](https://demagog.cz/vyrok/23120)"
       - title: "Fico byl ten, který pomohl Slovensku v rámci referenda do EU, do eurozóny."
         image: assets/img/timeline/1.jpg
         year: "3. října 2023"
         desc: "Robert Fico a jeho strana SMER-SD přispěli ke slovenskému přijetí eura, významně se ale nepodíleli na vstupu země do Evropské unie. SMER tehdy nebyl ve vládě a během celostátního referenda nepatřil k hlavním podporovatelům kampaně pro přičlenění do EU. [Zdroj](https://demagog.cz/vyrok/22968)"
+      - title: "Já jsem neporušil žádné moratorium. Zase lhala Česká televize a všichni opisovali."
+        image: assets/img/timeline/1.jpg
+        year: "3. října 2023"
+        desc: "Česká televize ani další média neuvedly, že by Andrej Babiš porušil moratorium před slovenskými volbami. Informovala pouze o tom, že Babiš vydal video v době moratoria. Tím zákaz volební kampaně skutečně neporušil. [Zdroj](https://demagog.cz/vyrok/22973)"
       - title: "Jo, ale pohrozila (Věra Jourová, pozn. Demagog.cz), že možná příště ten Babiš nemůže točit to video."
         image: assets/img/timeline/1.jpg
         year: "3. října 2023"
