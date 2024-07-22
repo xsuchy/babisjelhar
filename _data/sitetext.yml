@@ -33,6 +33,14 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pan premiér nikdy nemluvil o míru (v souvislosti s válkou na Ukrajině, pozn. Demagog.cz)."
+        image: assets/img/timeline/1.jpg
+        year: "5. června 2024"
+        desc: "Premiér Petr Fiala o míru v souvislosti s válkou na Ukrajině mluvil opakovaně a za jeho přijatelnou podobu považoval variantu, při které si Ukrajina zachová své území. Už v roce 2022 se pozitivně vyjadřoval o možnosti ukončení rusko-ukrajinského konfliktu diplomatickou cestou. [Zdroj](https://demagog.cz/vyrok/23350)"
+      - title: "Vy jste ho měl v Bílém domě (zbrojaře Michala Strnada, pozn. Demagog.cz)."
+        image: assets/img/timeline/1.jpg
+        year: "5. června 2024"
+        desc: "Michal Strnad byl ve Washingtonu ve stejné době jako Petr Fiala. Jednání v Bílém domě se ale neúčastnil, což pro Demagog.cz potvrdila i mluvčí Úřadu vlády Lucie Ješátková. [Zdroj](https://demagog.cz/vyrok/23364)"
       - title: "Pravda je, že jednání o míru už se vedla. Vedly je některé členské státy NATO a nedopadlo to. No, nedopadlo, protože ve finále zkrátka – to je z veřejných zdrojů – do toho hodil vidle Boris Johnson."
         image: assets/img/timeline/1.jpg
         year: "9. dubna 2024"
