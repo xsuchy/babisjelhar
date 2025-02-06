@@ -33,6 +33,14 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Tři miliony domácností balancují na hraně chudoby."
+        image: assets/img/timeline/1.jpg
+        year: "1. leden  2025"
+        desc: "Dle dat projektu 'Život k nezaplacení' zpracovávaného Českým rozhlasem a agenturou PAQ Research se v příjmové chudobě nachází zhruba 500 tisíc domácností, dalších 955 tisíc patří mezi nízkopříjmové bez větších úspor. K počtu 3 milionů se neblíží ani čísla ČSÚ a Eurostatu. [Zdroj](https://demagog.cz/vyrok/23760)"
+      - title: "(…) porovnat si, kolik jsme platili za nájmy, potraviny, léky, dopravu, energie v roce 2021 a kolik platíme nyní. (…) zdražilo o třetinu úplně všechno."
+        image: assets/img/timeline/1.jpg
+        year: "1. leden  2025"
+        desc: "Spotřebitelské ceny se od roku 2021 do listopadu 2024 sice skutečně zvýšily přibližně o třetinu, v některých oblastech, které Andrej Babiš vyjmenovává, ale nárůst cen takto vysoký nebyl. V případě dopravy se pohyboval okolo 19 %, v kategorii zdraví to bylo 23 %. [Zdroj](https://demagog.cz/vyrok/23766)"
       - title: "Za naší vlády jsme neměli žádného člověka na komunikaci."
         image: assets/img/timeline/1.jpg
         year: "16. srpen  2024"
