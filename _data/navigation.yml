@@ -6,4 +6,4 @@ nav:
     section: contact
 
   - title: "Podpořit"
-    section: /podporit
+    url: /podporit
