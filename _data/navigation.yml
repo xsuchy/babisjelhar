@@ -1,9 +1,9 @@
 nav:
   - title: "Seznam lží"
-    section: about
+    section: /#about
     
   - title: "Kontakt"
-    section: contact
+    section: /#contact
 
   - title: "Podpořit"
-    section: podporit
+    section: /podporit
