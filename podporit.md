@@ -15,3 +15,5 @@ Co je nejnáročnější - a kde bych uvítal pomoc - je vyhledávání Babišov
 Ḿnoho jeho lží padne na jeho setkání s voliči. Které bohužel nikdo nemonitoruje na rozdíl od jeho vystoupení v televizi.
 Pokud budete schopni navštívit jeho meeting, natočit ho na telefon, nahrát na Youtube a poslat mi odkaz a v které minutě lhal - tak
 to mi pomůže hodně. Ten záznam nemusí být kvalitní. Klidně z ruky. Stačí když bude vidět kdo mluví a rozumět slovům.
+
+Pište mi na mirek+babisjelhar@rodina-sucha.cz
