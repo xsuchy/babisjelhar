@@ -567,8 +567,8 @@ timeline:
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Mohlo by se vám také líbit"
-        year: ""
-        desc: "[Babišovy zločiny,](https://www.babisovyzlociny.cz/)".
+        year: "&nbsp;"
+        desc: "[Babišovy zločiny](https://www.babisovyzlociny.cz/)"
         image: assets/img/timeline/1.jpg
 
     end: "Něco chybí? Napište mi!"
