@@ -26,6 +26,10 @@ portfolio:
 #    section: portfolio
 #    closebutton: "Close Project"
     
+#      - title: ""
+#        image: assets/img/timeline/1.jpg
+#        year: "7. února  2026"
+#        desc: " [Zdroj]()"
 
 timeline:
     title: "Lži" 
@@ -33,6 +37,30 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Tady od revoluce se nepostavily žádné koleje."
+        image: assets/img/timeline/1.jpg
+        year: "7. února  2026"
+        desc: "V letech 1997–1999 došlo k výstavbě centra Astorka, které slouží jako kolej Janáčkovy akademie. Po revoluci se dokončila stavba Centra Krystal, kolejí pro studenty v Liberci nebo v Českých Budějovicích. Nyní se staví koleje Ostravské univerzity či univerzity v Jihlavě. [Zdroj](https://demagog.cz/vyrok/24590)"
+      - title: "Od revoluce nikdo tady nepostavil novou nemocnici."
+        image: assets/img/timeline/1.jpg
+        year: "7. února  2026"
+        desc: "Po roce 1989 byl nově vybudován areál Domažlické nemocnice a zároveň vznikla i menší, převážně soukromá zdravotnická zařízení. Došlo také k výstavbě specializovaných lékařských pracovišť, jako je například budova IKEM v Praze. [Zdroj](https://demagog.cz/vyrok/24588)"
+      - title: "(Ke konci období Fialovy vlády, pozn. Demagog.cz) přestaly se vykupovat pozemky pro Pražský okruh, pro dálniční úsek Praha–Tábor (...)."
+        image: assets/img/timeline/1.jpg
+        year: "10. říjen2025"
+        desc: "Výkupy pozemků pro severní úsek Pražského okruhu a pro dálniční úsek Praha–Tábor podle odpovědných osob stále probíhají. [Zdroj](https://demagog.cz/vyrok/24411)"
+      - title: "I podle vyjádření šéfky Finanční správy to (vrácení sazby korporátní daně na 19 %, pozn. Demagog.cz) bude fiskálně neutrální."
+        image: assets/img/timeline/1.jpg
+        year: "10. říjen 2025"
+        desc: "Ředitelka Finanční správy Simona Hornochová ve svých veřejných vyjádřeních netvrdila, že snížení daně z příjmů firem z 21 % na 19 % by bylo fiskálně neutrální. Po zavedení 21% sazby naopak uvedla, že došlo ke zvýšenému výběru daně z příjmů právnických osob. [Zdroj](https://demagog.cz/vyrok/24355)"
+      - title: "My jsme byli jediní, kteří tady skládali veřejné účty z našeho vládnutí. (…) Tohle nikdo od revoluce neudělal, tady je náš program 2017–2021 a jeho vyhodnocení."
+        image: assets/img/timeline/1.jpg
+        year: "1. říjem 2025"
+        desc: "Podobně jako Andrej Babiš, i vláda Bohuslava Sobotky na konci svého funkčního období vydala stručnou publikaci, která představovala klíčové milníky vlády a úspěchy jednotlivých resortů. [Zdroj](https://demagog.cz/vyrok/24298)"
+      - title: "Pan Fiala nás stále nálepkuje a říká, že naši voliči nejsou demokratičtí."
+        image: assets/img/timeline/1.jpg
+        year: "1. říjem  2025"
+        desc: "Petr Fiala v minulosti označoval hnutí ANO za populistické a využívající radikální rétoriku. O voličích hnutí ANO se však takto přímo nevyjadřoval. [Zdroj](https://demagog.cz/vyrok/24290)"
       - title: "Tři miliony domácností balancují na hraně chudoby."
         image: assets/img/timeline/1.jpg
         year: "1. leden  2025"
