@@ -37,6 +37,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Já jsem se rozhodl v lednu 2025 totálně změnit a musím říct, že i to mé nejbližší okolí mě o tom přesvědčilo, takže jsem jel pozitivní kampaň, vůbec jsem nemluvil o vládě. Mluvil jsem o prevenci rakoviny, o duševním zdraví."
+        image: assets/img/timeline/1.jpg
+        year: "2. května  2026"
+        desc: "V průběhu roku se o vládě vyjadřoval jako 'neschopné asociální a prolhané vládě' a 'premiéroivi Fialovi jako o největším strašidlu'. Na meetingu ANO recitoval zesměšňující básničku na premiéra. A vedl kampaň označující Fialu jako nejhoršího premiéra na světě. [Zdroj](https://www.novinky.cz/clanek/podcasty-policheck-babis-tvrdi-ze-vedl-jen-pozitivni-kampan-archivni-zabery-ho-usvedcuji-ze-lzi-40576525)"
       - title: "Tady od revoluce se nepostavily žádné koleje."
         image: assets/img/timeline/1.jpg
         year: "7. února  2026"
